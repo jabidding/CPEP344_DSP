@@ -55,6 +55,7 @@ Flow chart:
 
 -------------------------------------------------------------------------------------------------------
  Output Waveforms:
+ 
  ![image](https://github.com/user-attachments/assets/7f5b292f-b530-4950-8c0c-18e23b782084)
 
 
