@@ -78,7 +78,7 @@ Exercise:
 
 Output:
 
-![image](https://github.com/user-attachments/assets/b0bd00d0-da5a-40c7-a9e7-84cf3f8375d9)
+
 
 
 
