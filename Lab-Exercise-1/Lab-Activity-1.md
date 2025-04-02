@@ -61,7 +61,6 @@ Flow chart:
 
  VIVA QUESTIONS: 
 1. Define signal, Give Examples for 1-D, 2-D, 3-D signals.
-
 2. Define transform. What is the need for transform? 
 4. Differentiate Fourier transform and discrete Fourier transform. 
 5. Differentiate DFT and DTFT 
