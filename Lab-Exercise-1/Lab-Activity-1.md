@@ -79,6 +79,7 @@ Exercise:
 Output:
 
 
+![image](https://github.com/user-attachments/assets/1fe6e3f6-7465-4886-87a0-6ed1ea92ee16)
 
 
 
